@@ -1,0 +1,14 @@
+{
+  "name": "entrega-seguridad",
+  "version": "1.0.0",
+  "description": "entrega de labos materia seguridad informatica ",
+  "main": "quine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Svrznjak Francisco",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
